@@ -4,7 +4,7 @@
 
   * 60 dkg sertes- vagy marhahus (pl. comb)
   * 1 nagy fej voroshagyma,
-  * 1 nagy sargarepa
+  * 2 nagy sargarepa
   * 2 dl tejfol
 
 ## Elkeszites
