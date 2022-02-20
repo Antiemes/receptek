@@ -2,7 +2,7 @@
 
 ## Hozzávalók
 
- * 1-1,5 dl tej
+ * 1,5 dl tej
  * 5 dkg vaj (margarin, vagy olaj nem jó)
  * 0,5 kg liszt
  * 4 db tojás sárgája
@@ -10,8 +10,9 @@
  * Egy fél élesztő (sima, nem por)
  * Egy csipet só
 
-Kb. 1-1,5 dl tejben felfuttatunk egy fél élesztőt.
-Összekeverünk 1-1,5 dl langyos tejet és két mokkás kanál
+# Elkészítés
+
+Összekeverünk kb. 1,5 dl langyos tejet és két mokkás kanál
 cukrot, majd ebben felfuttatjuk az élesztőt. Fontos,
 hogy a tej ne legyen meleg, csak langyos, mert egyébként nem
 jön fel az élesztő.
