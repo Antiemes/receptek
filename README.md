@@ -2,5 +2,5 @@
 
 # Desszertek
 
-[Tiramisu]("tiramisu.md")
+[Tiramisu](tiramisu.md)
 
