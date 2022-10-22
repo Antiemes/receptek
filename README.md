@@ -2,6 +2,8 @@
 
 [Cukkinis lecsó](cukkinis_lecso.md)
 
+[Gombás rizottó](gombas_rizotto.md)
+
 [Hagymaleves krutonnal](hagymaleves_krutonnal.md)
 
 [Hamis vadas](hamis_vadas.md)
