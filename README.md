@@ -19,3 +19,6 @@
 [Fánk](fank.md)
 
 [Zöld teás keksz](zold_teas_keksz.md)
+
+[Gumitorta](gumitorta.md)
+
