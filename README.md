@@ -12,6 +12,10 @@
 
 [Zöldséges curry](curry.md)
 
+# Köretek
+
+[Rozmaringos pirított krumpli](rozmaringos_krumpli.md)
+
 # Desszertek
 
 [Tiramisu](tiramisu.md)
