@@ -2,8 +2,6 @@
 
 [Cukkinis lecsó](cukkinis_lecso.md)
 
-[Zöldséges curry](curry.md)
-
 [Gombás rizottó](gombas_rizotto.md)
 
 [Hagymaleves krutonnal](hagymaleves_krutonnal.md)
@@ -11,6 +9,8 @@
 [Hamis vadas](hamis_vadas.md)
 
 [Spenótos palacsinta](spenotos_palacsinta.md)
+
+[Zöldséges curry](curry.md)
 
 # Desszertek
 
