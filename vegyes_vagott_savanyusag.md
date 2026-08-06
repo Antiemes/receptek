@@ -8,7 +8,7 @@
 * egyéb zöldségek úgy, hogy az össztömeg ne változzon
 * 2 dl 10%-os ecet
 * 1 kk. borkén
-* 1,5 kk. szalicik
+* 1,5 kk. szalicil
 * 35 dkg cukor (lehet 40 dkg is, ha édesebbre akarjuk)
 * 12 dkg só (jódmentes)
 
